@@ -1,3 +1,5 @@
+package az.turingacademy;
+
 public class ForLoopApp {
     public static void main(String[] args) {
 
